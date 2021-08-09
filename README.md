@@ -11,9 +11,9 @@ What is Danielcoin?
 
 Danielcoin is a variant of litecoin with custom parameters.
  - 1 hour block targets
- - subsidy halves in 500k blocks (A long time)
+ - subsidy halves in 500k blocks (About 57 years)
  - 1 million total coins
- - 1 coins per block
+ - 1 coin per block
  - 24 blocks to retarget difficulty
 
 Danielcoin is designed to be increadibly hard to mine, making one coin much more valuable.
