@@ -21,6 +21,7 @@ Danielcoin is designed to be increadibly hard to mine, making one coin much more
 Installation:
 -------
 To run on a linux distibution, download the repository, and use qmake, then make, before finally opening the wallet using ./danielcoin-qt.
+
 To run a danielcoin wallet on windows, follow this link: 
 
 License
